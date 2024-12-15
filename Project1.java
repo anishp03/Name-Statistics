@@ -1,12 +1,3 @@
-/*
- * Author: Anish Patel
- * Course: COP3503 
- * Project #: 1
- * Title: Name Statistics
- * Due Date: 10/04/24
- * 
- * The project is designed to take a string delimited by commas and return statistics based on the user input.
- */
 import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.Arrays;
